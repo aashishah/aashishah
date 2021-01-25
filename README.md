@@ -4,7 +4,7 @@ I'm a creatively curious person and am really passionate about web development a
 
 - 😄 **Pronouns**: She/her
 - 🌱 **Currently learning**: Back-end web development and design!
-- 💻 **Tech STack**: 
+- 💻 **Tech Stack**: 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c)
