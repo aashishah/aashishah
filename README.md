@@ -19,4 +19,5 @@ I'm a creatively curious person and am really passionate about web development a
 ![Aashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashishah&hide=stars&theme=gotham)
 
 [**Checkout my Personal Website**](https://aashishah.github.io/)
+
 [**Reach me on LinkedIn**](https://www.linkedin.com/in/aashi-shah/)
