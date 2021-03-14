@@ -1,10 +1,10 @@
 
-# Hey there! I'm Aashi. ☯
+# Hey there! I'm Aashi. ⚛
 I'm a creatively curious person and am really passionate about web development and design! I love taking part in hackathons (a love I found recently) and creating new things! :)
 
-- 😄 **Pronouns**: She/her
-- 🌱 **Currently learning**: Back-end web development and design!
-- 💻 **Tech Stack**: 
+- **Pronouns**: She/her
+- **Currently learning**: Back-end web development and design!
+- **Tech Stack**: 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c)
@@ -14,7 +14,7 @@ I'm a creatively curious person and am really passionate about web development a
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-- ⚡ **Quote I live by**: "You may encounter defeats, but you must not be defeated. In fact, it may be necessary to encounter the defeats, so you can know who you are, what you can rise from and how you can still come out of it." - Maya Angelou
+- **Quote I live by**: "You may encounter defeats, but you must not be defeated. In fact, it may be necessary to encounter the defeats, so you can know who you are, what you can rise from and how you can still come out of it." - Maya Angelou
 
 ![Aashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashishah&hide=stars&theme=gotham)
 
