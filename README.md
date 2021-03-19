@@ -1,5 +1,5 @@
 
-# Hey there! I'm Aashi. ⚛
+# Hey there! I'm Aashi. 
 I'm a creatively curious person and am really passionate about web development and design! I love taking part in hackathons (a love I found recently) and creating new things! :)
 
 - **Pronouns**: She/her
