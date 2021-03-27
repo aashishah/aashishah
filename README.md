@@ -1,7 +1,8 @@
 ![aashi](https://user-images.githubusercontent.com/49470807/112159436-2b131100-8c0f-11eb-98a0-dbd701a7c56d.gif)
 
-
-**Tech Stack**: 
+<br>
+**Skills**: 
+<br>
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c)
@@ -16,5 +17,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=for-the-badge&logo=Figma)
 
 ![Aashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashishah&hide=stars&theme=gotham)
+
+![Visitor Count](https://profile-counter.glitch.me/{aashishah}/count.svg)
 
 [**Portfolio**](https://aashishah.github.io/) | [**LinkedIn**](https://www.linkedin.com/in/aashi-shah/)
