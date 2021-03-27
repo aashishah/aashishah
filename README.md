@@ -11,7 +11,9 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Photoshop](https://img.shields.io/badge/Photoshop-Adobe-informational?style=for-the-badge)
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=for-the-badge&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge=adobe-photoshop)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=for-the-badge&logo=Figma)&nbsp;
 
 ![Aashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashishah&hide=stars&theme=gotham)
 
