@@ -1,4 +1,3 @@
-![aashi](https://user-images.githubusercontent.com/49470807/112159436-2b131100-8c0f-11eb-98a0-dbd701a7c56d.gif)
 
 **Skills**: 
 
