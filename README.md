@@ -16,4 +16,4 @@
 
 ![Aashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashishah&hide=stars&theme=gotham)
 
-[**Portfolio**](https://aashishah.tech/) | [**LinkedIn**](https://www.linkedin.com/in/aashi-shah/) | [**Devpost**](https://devpost.com/aashi_shah)
+[**Portfolio**](https://aashishah.tech/) | [**Polywork**](https://www.polywork.com/aashishah/) | [**Devpost**](https://devpost.com/aashi_shah)
