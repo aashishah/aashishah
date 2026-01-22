@@ -14,6 +14,4 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=for-the-badge&logo=adobe-illustrator)
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=for-the-badge&logo=Figma)
 
-![Aashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashishah&hide=stars&theme=gotham)
-
 [**Portfolio**](https://aashishah.tech/) | [**Polywork**](https://www.polywork.com/aashishah/) | [**Devpost**](https://devpost.com/aashi_shah)
